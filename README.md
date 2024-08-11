@@ -3,3 +3,4 @@ To keep track of my attempts of John Crickett's coding ![challenges](https://cod
 
 1. ![Load balancer using GO](https://github.com/Fuad28/load-balancer)
 2. ![Redis server using Typescript](https://github.com/Fuad28/redis-server)
+3. ![GOServe: A HTTP JSON Web server in GO](https://github.com/Fuad28/GOServe)
